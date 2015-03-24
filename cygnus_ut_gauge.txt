@@ -3,8 +3,8 @@
 !VERSION,1.00.00
 !DOC_TYPE,Operator's Manual
 !OUT_DIR,cygnus_ut_gauge/
-!VALID_PAGES,
-!VALID_TEXT,
+!VALID_PAGES,1
+!VALID_TEXT,2
 !TEMPLATE_COVER,required/htm/template_index_print.htm,index_print.htm
 
 #Documentation Generation
@@ -12,8 +12,12 @@
 !INCLUDE,required/overview_qs_.txt,1
 
 *,Equipment Guide,,equipment_.htm,,,
+**,Installation and Removal,,installation.htm,,,
 
 *,Software Guide,,software_.htm,,,
+**,Software Management,,software_management.htm,,,
+***, Software Installation,,software_installation.htm,,,
+***, Software Updates,,software_updates.htm,,,
 
 *,Operations Guide,,operations_.htm,,,
 
