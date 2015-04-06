@@ -1,0 +1,3 @@
+!VALID_PAGES,1
+!VALID_TEXT,1
+!INCLUDE,cygnus_ut_gauge.txt,1

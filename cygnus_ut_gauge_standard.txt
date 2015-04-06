@@ -1,0 +1,4 @@
+!HTML_VERSION,standard
+!VALID_PAGES,3
+!VALID_TEXT,3
+!INCLUDE,cygnus_ut_gauge.txt,1
