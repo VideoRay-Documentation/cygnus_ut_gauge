@@ -1,0 +1,30 @@
+<ol>
+   <li>Unscrew the Knurled Ring from the end of the probe.<p></p></li>
+   
+   <li>Use the Locking Ring Key to unscrew the Locking Ring Ring from inside the Knurled Ring. The old membrane can be removed and discarded.<p></p></li>
+   
+   <li>Place a new membrane into the end of the Knurled Ring, ensuring it locates in the groove.<p></p></li>
+   
+   <li>Screw the Locking Ring back inside the Knurled Ring and tighten with the Locking Ring Key.<p></p></li>
+   
+   <li>Place a few drops of Membrane Couplant on to the probe face.<p></p></li>
+   
+   <li>Screw the Knurled Ring back onto the probe. Use your thumb to squeeze the couplant from under the membrane as you tighten the Knurled Ring down.<p></p></li>
+   
+   <li>You should see the membrane has a very thin film of couplant between itself and the probe face with no air bubbles.</li>
+   </ol>
+   
+   <table class="transparent">
+  <tr><td class="transparent"><img src="../../cygnus_ut_gauge/images/thickness_gauge.png" width="400"></td></tr>
+  <tr><td class="transparent" align="center"><b>Cygnus Ultrasonic Thickness Gauge</b></td></tr>
+  </table>
+  
+  <tr><td class="transparent"><img src="../../cygnus_ut_gauge/images/utarm_single.png" width="400"></td></tr>
+  <tr><td class="transparent" align="center"><b>Mounted on ROV</b></td></tr>
+  
+  <p>In order to take a reading, the Thickness Gauge needs to be maneuvered into a position where the probe makes contact with a metal surface. For best results, ensure that the surface being measured is smooth, surfaces containing corrosion or biofouling may prove difficult to measure. <!--v--><a href="../../cygnus_ut_gauge/html/operations_.html"><img src="../../required/images/icon_manual.png" title="<!--/v-->See the Operations Guide for more information.<!--v-->"></a><!--/v--></p>
+  
+   <table class="transparent">
+  <tr><td class="transparent"><img src="../../cygnus_ut_gauge/images/cygnus_ut_vertical.png" width="400"></td></tr>
+  <tr><td class="transparent" align="center"><b>Cygnus Ultrasonic Thickness Gauge</b></td></tr>
+  </table>
