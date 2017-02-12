@@ -13,12 +13,12 @@
 **,Installation and Removal,,installation.htm,,,
 
 *,Software Guide,,software_.htm,,,
-**,Software Management,,software_management.htm,,,
-***, Software Installation,,software_installation.htm,,,
-***, Software Updates,,software_updates.htm,,,
+#**,Software Management,,software_management.htm,,,
+#***,Software Installation,,software_installation.htm,,,
+#***,Software Updates,,software_updates.htm,,,
 
 *,Operations Guide,,operations_.htm,,,
 
 *,Maintenance Guide,,maintenance_.htm,,,
 
-*,Compatibility Guide,,compatibility_.htm,,,
+#*,Compatibility Guide,,compatibility_.htm,,,

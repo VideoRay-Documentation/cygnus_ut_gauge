@@ -1,3 +1,4 @@
 
-|Swing Arm||
-|Ultrasonic Thickness||
+|PAM|Protocol Adapter and Multiplexer used to integrate devices with VideoRay Pro 4 systems.|
+|Swing Arm|A device to position the Ultrasonic Thickness Gauge head to be able to measure surfaces at various orientations.|
+|Ultrasonic Thickness|Method of determining the thickness of an object using ultrasound.|
